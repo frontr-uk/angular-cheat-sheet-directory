@@ -152,9 +152,11 @@ export class Component implements OnInit {
 [Angular website for lifecycles](https://angular.io/guide/lifecycle-hooks)
 
 **6. Services**
+
 | **Related videos** | 
 | ------------- |
 |[Creating services in angular](https://www.youtube.com/watch?v=Z5Q_IQMNrPg&t=616s)|
+
 
 **7. Lint**
 | Command  | Description |
