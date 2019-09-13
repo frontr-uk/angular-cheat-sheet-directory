@@ -159,6 +159,7 @@ export class Component implements OnInit {
 
 
 **7. Lint**
+
 | Command  | Description |
 | ------------- | ------------- |
 | ng lint bananas  | Display in terminal the lint errors  |
